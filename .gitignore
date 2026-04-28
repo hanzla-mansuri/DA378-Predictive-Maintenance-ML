@@ -1,0 +1,6 @@
+venv/
+.env
+*.csv
+*.ipynb_checkpoints/
+__pycache__/
+predictive-maintenance-for-industrial-machines.ipynb
