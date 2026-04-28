@@ -6,4 +6,7 @@ from sklearn.metrics import (precision_score, recall_score, roc_curve,
 import kagglehub
 import os
 
+
+import sys
+print(sys.executable)
 print("Environment is ready!")

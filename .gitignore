@@ -1,6 +1,7 @@
 venv/
 .env
-*.csv
-*.ipynb_checkpoints/
 __pycache__/
+*.ipynb_checkpoints/
+.vscode/
 predictive-maintenance-for-industrial-machines.ipynb
+OfflineData/
