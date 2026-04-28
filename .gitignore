@@ -5,4 +5,4 @@ __pycache__/
 .vscode/
 predictive-maintenance-for-industrial-machines.ipynb
 OfflineData/
-.claude/settings.local.json
+.claude/
