@@ -1,7 +1,3 @@
-I hear you. If this is for college, you want it to look professional but not like a robot wrote it in 2 seconds. A "human" README should tell a story: "Here was the problem, here is how I tackled it, and here is what I actually learned."
-
-Here is a more authentic, grounded version that sounds like a student who actually put in the work.
-
 Predictive Maintenance: Stopping Machine Failure Before It Starts
 College Project | Term II - Data Science
 
