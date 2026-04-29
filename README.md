@@ -30,8 +30,6 @@ The Result: The final model is able to flag potential issues with enough lead ti
 📁 How to Use This
 Open the Notebook: Term_II_Project_II.ipynb contains the full walkthrough.
 
-The Data: Make sure you have the Kaggle CSV in the same folder.
-
 The Logic: I've added comments throughout the code explaining my thought process, not just what the code does.
 
 My Takeaway
